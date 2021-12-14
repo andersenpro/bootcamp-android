@@ -1,4 +1,4 @@
-#### Projeto do Desafio do Bootcamp Android
+### Projeto do Desafio do Bootcamp Android
 
 Aqui serão colocados os arquivos fontes do projeto em si, a medida que o andamento do bootcamp ocorrer.
 
